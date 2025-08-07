@@ -1,6 +1,6 @@
 <h1 align="center"> Bankist Website 💵 </h1>
 <p align="center">
-<img src="./img/banner.png">
+<img align="center" width="720px" src="./img/banner.png">
 </p>
 
 ### This is a bank website written with HTML, CSS and Javascript.
